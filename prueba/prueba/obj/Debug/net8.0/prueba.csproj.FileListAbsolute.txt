@@ -1,0 +1,14 @@
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\bin\Debug\net8.0\prueba.exe
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\bin\Debug\net8.0\prueba.deps.json
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\bin\Debug\net8.0\prueba.runtimeconfig.json
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\bin\Debug\net8.0\prueba.dll
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\bin\Debug\net8.0\prueba.pdb
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.AssemblyInfoInputs.cache
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.AssemblyInfo.cs
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.csproj.CoreCompileInputs.cache
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.dll
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\refint\prueba.dll
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.pdb
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\prueba.genruntimeconfig.cache
+C:\Users\segur\OneDrive\Documentos\Github\Tutorias-Progra-2\prueba\prueba\obj\Debug\net8.0\ref\prueba.dll
